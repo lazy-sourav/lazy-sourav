@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazy-sourav
-- 👀 I’m interested in marn-stack web development
-- 🌱 I’m currently learning css
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently learning django 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me apnasourav08@gmail.com
 - 😄 Pronouns: ...
